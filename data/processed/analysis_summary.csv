@@ -1,0 +1,8 @@
+metric,value,details
+total_rows,1000,
+unique_rows,1000,
+churn_percentage,25.6,
+avg_monthly_by_contract_csv,data\processed\avg_monthly_by_contract.csv,
+tenure_group_counts_csv,data\processed\tenure_group_counts.csv,
+internet_service_distribution_csv,data\processed\internet_service_distribution.csv,
+pivot_churn_vs_tenure_csv,data\processed\pivot_churn_tenure.csv,

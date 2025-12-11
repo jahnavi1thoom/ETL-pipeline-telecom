@@ -1,0 +1,37 @@
+[
+  {
+    "metric": "total_rows",
+    "value": 1000,
+    "details": null
+  },
+  {
+    "metric": "unique_rows",
+    "value": 1000,
+    "details": null
+  },
+  {
+    "metric": "churn_percentage",
+    "value": 25.6,
+    "details": null
+  },
+  {
+    "metric": "avg_monthly_by_contract_csv",
+    "value": "data\\processed\\avg_monthly_by_contract.csv",
+    "details": null
+  },
+  {
+    "metric": "tenure_group_counts_csv",
+    "value": "data\\processed\\tenure_group_counts.csv",
+    "details": null
+  },
+  {
+    "metric": "internet_service_distribution_csv",
+    "value": "data\\processed\\internet_service_distribution.csv",
+    "details": null
+  },
+  {
+    "metric": "pivot_churn_vs_tenure_csv",
+    "value": "data\\processed\\pivot_churn_tenure.csv",
+    "details": null
+  }
+]

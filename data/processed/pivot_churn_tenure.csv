@@ -1,0 +1,5 @@
+tenure_group,not_churned_count,churned_count,total,churn_rate_pct
+Champion,196,13,209,6.22
+Loyal,170,33,203,16.256
+New,166,154,320,48.125
+Regular,212,56,268,20.896
